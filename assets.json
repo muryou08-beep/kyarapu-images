@@ -259,5 +259,23 @@
     "width": 1536,
     "height": 1024,
     "format": "PNG"
+  },
+  {
+    "name": "本格中華を作るリネットと得意顔のセレネス",
+    "path": "e22.png",
+    "bytes": 2697478,
+    "sha256": "0e72dec379c7a265e691f5eab19627a581b9f8b87b5779c56cc82690f9547b99",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "ビーズソファで脱力するリネット",
+    "path": "e23.png",
+    "bytes": 2742433,
+    "sha256": "bb6d1d897b2724a04c883fe251abfc6a5b6623839699fc89b239324906de3703",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
   }
 ]
