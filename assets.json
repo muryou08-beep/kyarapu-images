@@ -223,5 +223,41 @@
     "width": 1536,
     "height": 1024,
     "format": "PNG"
+  },
+  {
+    "name": "改札でつまるセレネス",
+    "path": "e18.png",
+    "bytes": 2176748,
+    "sha256": "2e1b17d96690ff532c502f0b7512edcb37249f4df1be97d7bb2ec96afa535497",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "部屋に夜空を作るセレネス",
+    "path": "e19.png",
+    "bytes": 2975362,
+    "sha256": "f531d237d3c8e478eec85e4dd220fa29807ffdbdb0b0fc828512117e4ec1b07b",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "街でナンパされる二人",
+    "path": "e20.png",
+    "bytes": 2515721,
+    "sha256": "c53a9e63ccb1b82a7d839dcd168fea740ba12b6706cc0259e133976abeeafc1a",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "魔法で制服に着替える二人",
+    "path": "e21.png",
+    "bytes": 2618041,
+    "sha256": "33a777a20e77b57c7b6cd13ebaf635028b5d2c23902a0a99d2a0c909921e431a",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
   }
 ]
