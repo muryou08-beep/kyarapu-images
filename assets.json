@@ -1,0 +1,50 @@
+[
+  {
+    "name": "限定ガチャを祈る",
+    "path": "s1.png",
+    "bytes": 2587387,
+    "sha256": "dc2f160b18e8520480dddd15c978739dbc77eec991f436badf980783499d8c7a"
+  },
+  {
+    "name": "SSR獲得",
+    "path": "s2.png",
+    "bytes": 3584620,
+    "sha256": "210114f640ffc63f7bb332b5c0ebfc3b89bbe354e946c412c7d67da540f43075"
+  },
+  {
+    "name": "セレネス画面内",
+    "path": "s3.png",
+    "bytes": 2774776,
+    "sha256": "0118d6ef45563a305490da3e8cfae77e4b061d247094a72567d53e5c70ff652d"
+  },
+  {
+    "name": "セレネス現実に出現",
+    "path": "s4.png",
+    "bytes": 2848056,
+    "sha256": "ba20fbf5d18094c1d780b8237fe95903db9b5ffbb97e8e424491454a867934f1"
+  },
+  {
+    "name": "リネット画面内で焦る",
+    "path": "s5.png",
+    "bytes": 2455081,
+    "sha256": "e9c0fd567bde716268de1a6ee7496e687d9e938910dbd09dcb42ac1da3b77ec7"
+  },
+  {
+    "name": "リネット焦って出現",
+    "path": "s6.png",
+    "bytes": 2569268,
+    "sha256": "e48d068485d7d91d2a96bd848c115e04600dda9fd83b9fc00b43d40b40be6f35"
+  },
+  {
+    "name": "セレネス映画館で怖がるふり",
+    "path": "s7.png",
+    "bytes": 2151513,
+    "sha256": "36ac559138c685e769c05612a1d13b907baa2e413716c57a4fc3a58cb8116592"
+  },
+  {
+    "name": "リネット映画館で強がり",
+    "path": "s8.png",
+    "bytes": 2107121,
+    "sha256": "cc32e422eed972f87a6704f55ac8176823966ddd46d1aa854e090250e5a80708"
+  }
+]
