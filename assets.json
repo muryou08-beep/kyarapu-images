@@ -3,48 +3,225 @@
     "name": "限定ガチャを祈る",
     "path": "s1.png",
     "bytes": 2587387,
-    "sha256": "dc2f160b18e8520480dddd15c978739dbc77eec991f436badf980783499d8c7a"
+    "sha256": "dc2f160b18e8520480dddd15c978739dbc77eec991f436badf980783499d8c7a",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "SSR獲得",
     "path": "s2.png",
     "bytes": 3584620,
-    "sha256": "210114f640ffc63f7bb332b5c0ebfc3b89bbe354e946c412c7d67da540f43075"
+    "sha256": "210114f640ffc63f7bb332b5c0ebfc3b89bbe354e946c412c7d67da540f43075",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "セレネス画面内",
     "path": "s3.png",
     "bytes": 2774776,
-    "sha256": "0118d6ef45563a305490da3e8cfae77e4b061d247094a72567d53e5c70ff652d"
+    "sha256": "0118d6ef45563a305490da3e8cfae77e4b061d247094a72567d53e5c70ff652d",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "セレネス現実に出現",
     "path": "s4.png",
     "bytes": 2848056,
-    "sha256": "ba20fbf5d18094c1d780b8237fe95903db9b5ffbb97e8e424491454a867934f1"
+    "sha256": "ba20fbf5d18094c1d780b8237fe95903db9b5ffbb97e8e424491454a867934f1",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "リネット画面内で焦る",
     "path": "s5.png",
     "bytes": 2455081,
-    "sha256": "e9c0fd567bde716268de1a6ee7496e687d9e938910dbd09dcb42ac1da3b77ec7"
+    "sha256": "e9c0fd567bde716268de1a6ee7496e687d9e938910dbd09dcb42ac1da3b77ec7",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "リネット焦って出現",
     "path": "s6.png",
     "bytes": 2569268,
-    "sha256": "e48d068485d7d91d2a96bd848c115e04600dda9fd83b9fc00b43d40b40be6f35"
+    "sha256": "e48d068485d7d91d2a96bd848c115e04600dda9fd83b9fc00b43d40b40be6f35",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "セレネス映画館で怖がるふり",
     "path": "s7.png",
     "bytes": 2151513,
-    "sha256": "36ac559138c685e769c05612a1d13b907baa2e413716c57a4fc3a58cb8116592"
+    "sha256": "36ac559138c685e769c05612a1d13b907baa2e413716c57a4fc3a58cb8116592",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
   },
   {
     "name": "リネット映画館で強がり",
     "path": "s8.png",
     "bytes": 2107121,
-    "sha256": "cc32e422eed972f87a6704f55ac8176823966ddd46d1aa854e090250e5a80708"
+    "sha256": "cc32e422eed972f87a6704f55ac8176823966ddd46d1aa854e090250e5a80708",
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
+  },
+  {
+    "name": "リネットとセレネス魔法換装",
+    "path": "e1.png",
+    "bytes": 2619988,
+    "sha256": "22f5f754537b267506e936886e05b2a98a405d414112526b7a0ce3aaf9f66d57",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネス通常衣装親しみ",
+    "path": "e2.png",
+    "bytes": 2719867,
+    "sha256": "2dabfd71d2815ff0762e8874c950fb3bff859e35cfb16ffdb581862a84296772",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "リネット通常衣装料理",
+    "path": "e3.png",
+    "bytes": 2359186,
+    "sha256": "72f0fb536cdc745c078bdc94e62ad3c2f389e0ce7e5f0bb1bf6a83474a952f21",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "海の家のメニューと二人",
+    "path": "e4.png",
+    "bytes": 2914291,
+    "sha256": "a8af204c8f460105ab2cbea9d34953369b585e2dbb731fd92946e7944660a0fa",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネス無防備なソファ",
+    "path": "e5.png",
+    "bytes": 2680972,
+    "sha256": "3ceefa4611a0e16e89aa922986c23d2195968c95d36f23b891b744e05e4e9e76",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "リネット壁にごつん",
+    "path": "e6.png",
+    "bytes": 2324787,
+    "sha256": "e85c1be5b53ac42593606c221dc2433e617670e41bdb60cee71dd5568e2a95da",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネスクレーンゲーム",
+    "path": "e7.png",
+    "bytes": 2261354,
+    "sha256": "eceac7ac03d1b3515ecd4077582c0c8ee77fa91584fa7d1fbb39ffe155b73f6e",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "リネットダンスゲーム",
+    "path": "e8.png",
+    "bytes": 2204986,
+    "sha256": "dec0b5bc8884ebbc1b62171bf4b6ae0b9a4a08a4ef19cdc675e8f77b50a6f9e7",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "二人とテラスでお茶",
+    "path": "e9.png",
+    "bytes": 2612030,
+    "sha256": "d904bf3310959578f7b17d13892169e142f382d820be8a2bf65a04645b309c88",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネス大盛りラーメン",
+    "path": "e10.png",
+    "bytes": 2463972,
+    "sha256": "5122354c56d5c246c9b73b37b4988ea77f8a562db13e11af8647bee884cee926",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "リネットフリル服に夢中",
+    "path": "e11.png",
+    "bytes": 2321612,
+    "sha256": "58497479e23fbc763207ed2a8f33a09023e0001b8fa31fccbd2cbb8d315f7b2f",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネスポテチとコーラ",
+    "path": "e12.png",
+    "bytes": 2482806,
+    "sha256": "03a4915708619111ddbdee9e72c8190f657f4f61ddfbcaae8391ceb1743316d2",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "リネットお笑いで大笑い",
+    "path": "e13.png",
+    "bytes": 2366969,
+    "sha256": "14f97654c22bd033c788b9445aa0c9c16c247cdeb935c1b06dbc5f94d610babe",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "二人とレースゲーム",
+    "path": "e14.png",
+    "bytes": 2813306,
+    "sha256": "40f961af247b9b4a901dbefb576899310f24f8694ff9a99e77166d47e0138c0e",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "セレネス魔法で片づけSD",
+    "path": "e15.png",
+    "bytes": 2706952,
+    "sha256": "ba7c53a4bfbfa3389ca3fd82ffd0862365f5f043205b0959215becc02e5e4870",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "朝に起こしに来る二人",
+    "path": "e16.png",
+    "bytes": 2482328,
+    "sha256": "6208a54f705517c6c7c63b61b7192f90b2bfbd292b98415192b4c76d4a986ff1",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "name": "猫とセレネスとリネット",
+    "path": "e17.png",
+    "bytes": 2898729,
+    "sha256": "a224f41391c9381c06860101f2def59bead240a57054063f0539310fae4164d5",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
   }
 ]
